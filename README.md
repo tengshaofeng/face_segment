@@ -18,7 +18,7 @@ python face_seg.py
 
 
 ## The following is dose not matter:
-generate build/libtest_face_seg.so
+### generate build/libtest_face_seg.so
 
 cd face_segmentor
 
