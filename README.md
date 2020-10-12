@@ -15,7 +15,8 @@ cp data/HGNet_S2_train_new2_iter_120000.caffemodel  /usr/local/lib/python2.7/dis
 python face_seg.py
 #
 ## result
-
+input:  https://github.com/tengshaofeng/face_segment/blob/master/face_segmentor/data/model_01_seq00.jpg
+output: https://github.com/tengshaofeng/face_segment/blob/master/face_segmentor/res.png
 
 ## The following is dose not matter:
 ### generate build/libtest_face_seg.so
