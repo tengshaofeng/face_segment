@@ -19,7 +19,7 @@ input:  ![image](https://github.com/tengshaofeng/face_segment/blob/master/face_s
 
 output: ![image](https://github.com/tengshaofeng/face_segment/blob/master/face_segmentor/res.png)
 
-## The following is dose not matter:
+## The following dose not matter:
 ### generate build/libtest_face_seg.so
 
 cd face_segmentor
