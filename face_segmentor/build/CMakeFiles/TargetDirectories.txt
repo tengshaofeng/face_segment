@@ -1,0 +1,3 @@
+/home/tengbq/code/aligned_face_segmentor/build/CMakeFiles/rebuild_cache.dir
+/home/tengbq/code/aligned_face_segmentor/build/CMakeFiles/edit_cache.dir
+/home/tengbq/code/aligned_face_segmentor/build/CMakeFiles/test_face_seg.dir
