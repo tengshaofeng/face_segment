@@ -14,13 +14,17 @@ cp data/HGNet_S2_train_new2_iter_120000.caffemodel  /usr/local/lib/python2.7/dis
 
 python face_seg.py
 #
+## result
 
 
 ## The following is dose not matter:
 generate build/libtest_face_seg.so
 
 cd face_segmentor
+
 mkdir build
+
 cmake ..
+
 make -j4
 
